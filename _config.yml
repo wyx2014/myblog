@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 不脆弱 不协妥
+title: 不脆弱 不妥协
 subtitle:
 description:
 keywords:
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: cafe
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
